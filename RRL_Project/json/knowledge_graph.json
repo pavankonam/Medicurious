@@ -1,0 +1,28 @@
+{
+    "nodes": [
+        {
+            "id": "Headache",
+            "type": "Symptom"
+        },
+        {
+            "id": "Migraine",
+            "type": "Diagnosis"
+        },
+        {
+            "id": "Acetaminophen",
+            "type": "Drug"
+        }
+    ],
+    "edges": [
+        {
+            "source": "Headache",
+            "target": "Migraine",
+            "relationship": "causes"
+        },
+        {
+            "source": "Acetaminophen",
+            "target": "Migraine",
+            "relationship": "treats"
+        }
+    ]
+}

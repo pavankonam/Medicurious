@@ -1,0 +1,330 @@
+[
+    {
+        "Class": "safe eur j",
+        "Type": "clin",
+        "Generic Name": "chem",
+        "Brand Name": "clin",
+        "Conclusion": "biochem",
+        "References": "1997"
+    },
+    {
+        "Class": "clin pharmacol",
+        "Type": "therap",
+        "Generic Name": "therapies",
+        "Brand Name": "motility",
+        "Conclusion": "stimulants",
+        "References": "83"
+    },
+    {
+        "Class": "unsafe in",
+        "Type": "cell",
+        "Generic Name": "culture",
+        "Brand Name": "gen",
+        "Conclusion": "pharmacol",
+        "References": "1999"
+    },
+    {
+        "Class": "safe in",
+        "Type": "animals",
+        "Generic Name": "j",
+        "Brand Name": "clin",
+        "Conclusion": "pharmacol",
+        "References": "2001"
+    },
+    {
+        "Class": "safe",
+        "Type": "ann",
+        "Generic Name": "fr",
+        "Brand Name": "anesth",
+        "Conclusion": "reanim",
+        "References": "1989"
+    },
+    {
+        "Class": "one case report of",
+        "Type": "uneventful",
+        "Generic Name": "use",
+        "Brand Name": "in",
+        "Conclusion": "a",
+        "References": "54"
+    },
+    {
+        "Class": "probably",
+        "Type": "unsafe",
+        "Generic Name": "clin",
+        "Brand Name": "chim",
+        "Conclusion": "acta",
+        "References": "1995"
+    },
+    {
+        "Class": "safe in",
+        "Type": "patients",
+        "Generic Name": "ann",
+        "Brand Name": "int",
+        "Conclusion": "med",
+        "References": "2005"
+    },
+    {
+        "Class": "drug",
+        "Type": "agents",
+        "Generic Name": "blockers",
+        "Brand Name": "metab",
+        "Conclusion": "disp",
+        "References": "34"
+    },
+    {
+        "Class": "porphyrogenic but safe",
+        "Type": "in",
+        "Generic Name": "lose",
+        "Brand Name": "dosages",
+        "Conclusion": "neurology",
+        "References": "1982"
+    },
+    {
+        "Class": "possibly\nporphyrinogenic comp biochem",
+        "Type": "physiol",
+        "Generic Name": "c",
+        "Brand Name": "toxicol",
+        "Conclusion": "pharmacol",
+        "References": "2005"
+    },
+    {
+        "Class": "safe in",
+        "Type": "patients",
+        "Generic Name": "int",
+        "Brand Name": "j",
+        "Conclusion": "biochem",
+        "References": "1985"
+    },
+    {
+        "Class": "unsafe in animals",
+        "Type": "s",
+        "Generic Name": "afr",
+        "Brand Name": "med",
+        "Conclusion": "j",
+        "References": "1984"
+    },
+    {
+        "Class": "unsafe in",
+        "Type": "animals",
+        "Generic Name": "j",
+        "Brand Name": "clin",
+        "Conclusion": "pharmacol",
+        "References": "2001"
+    },
+    {
+        "Class": "unsafe",
+        "Type": "j",
+        "Generic Name": "clin",
+        "Brand Name": "endocrinol",
+        "Conclusion": "metab",
+        "References": "1981"
+    },
+    {
+        "Class": "exacerbates acute porphyria",
+        "Type": "j",
+        "Generic Name": "clin",
+        "Brand Name": "endocrinol",
+        "Conclusion": "metab",
+        "References": "1979"
+    },
+    {
+        "Class": "probably porphyrinogenic eur\nmedications chemical j",
+        "Type": "clin",
+        "Generic Name": "chem",
+        "Brand Name": "clin",
+        "Conclusion": "biochem",
+        "References": "1997"
+    },
+    {
+        "Class": "safe",
+        "Type": "br",
+        "Generic Name": "j",
+        "Brand Name": "clin",
+        "Conclusion": "pharmacol",
+        "References": "1997"
+    },
+    {
+        "Class": "safe\ncardiovascular",
+        "Type": "angiotensin",
+        "Generic Name": "eprosartan",
+        "Brand Name": "teveten",
+        "Conclusion": "ok!",
+        "References": "98"
+    },
+    {
+        "Class": "unsafe in",
+        "Type": "animals",
+        "Generic Name": "br",
+        "Brand Name": "j",
+        "Conclusion": "anaesth",
+        "References": "1985"
+    },
+    {
+        "Class": "probably",
+        "Type": "safe",
+        "Generic Name": "br",
+        "Brand Name": "j",
+        "Conclusion": "anaesth",
+        "References": "1985"
+    },
+    {
+        "Class": "unsafe in animals",
+        "Type": "s",
+        "Generic Name": "afr",
+        "Brand Name": "med",
+        "Conclusion": "j",
+        "References": "1984"
+    },
+    {
+        "Class": "unsafe in",
+        "Type": "patients",
+        "Generic Name": "neurology",
+        "Brand Name": "system",
+        "Conclusion": "agents",
+        "References": "1981"
+    },
+    {
+        "Class": "probably safe",
+        "Type": "j",
+        "Generic Name": "neurol",
+        "Brand Name": "neurosurg",
+        "Conclusion": "psychiat",
+        "References": "1997"
+    },
+    {
+        "Class": "safe",
+        "Type": "in",
+        "Generic Name": "patients",
+        "Brand Name": "and",
+        "Conclusion": "animals",
+        "References": "20"
+    },
+    {
+        "Class": "years of age and",
+        "Type": "older",
+        "Generic Name": "weighing",
+        "Brand Name": "at",
+        "Conclusion": "least",
+        "References": "40"
+    },
+    {
+        "Class": "use with",
+        "Type": "caution",
+        "Generic Name": "redox",
+        "Brand Name": "agents",
+        "Conclusion": "rep",
+        "References": "2004"
+    },
+    {
+        "Class": "hormones progestins norethindrone",
+        "Type": "loestrin",
+        "Generic Name": "no",
+        "Brand Name": "info",
+        "Conclusion": "jama",
+        "References": "1965"
+    },
+    {
+        "Class": "safe in cell",
+        "Type": "culture",
+        "Generic Name": "j",
+        "Brand Name": "appl",
+        "Conclusion": "toxicol",
+        "References": "2005"
+    },
+    {
+        "Class": "caution",
+        "Type": "s",
+        "Generic Name": "afr",
+        "Brand Name": "med",
+        "Conclusion": "j",
+        "References": "1984"
+    },
+    {
+        "Class": "probably",
+        "Type": "unsafe",
+        "Generic Name": "curr",
+        "Brand Name": "drug",
+        "Conclusion": "metab",
+        "References": "2003"
+    },
+    {
+        "Class": "safe in patients",
+        "Type": "s",
+        "Generic Name": "afr",
+        "Brand Name": "med",
+        "Conclusion": "j",
+        "References": "1988"
+    },
+    {
+        "Class": "use",
+        "Type": "with",
+        "Generic Name": "caution",
+        "Brand Name": "pediat",
+        "Conclusion": "anesthes",
+        "References": "2005"
+    },
+    {
+        "Class": "expert",
+        "Type": "opin",
+        "Generic Name": "drug",
+        "Brand Name": "metab",
+        "Conclusion": "toxicol",
+        "References": "4"
+    },
+    {
+        "Class": "possibly porphyrinogenic",
+        "Type": "j",
+        "Generic Name": "agents",
+        "Brand Name": "clin",
+        "Conclusion": "pharmacol",
+        "References": "2001"
+    },
+    {
+        "Class": "safe in",
+        "Type": "patients",
+        "Generic Name": "polish",
+        "Brand Name": "j",
+        "Conclusion": "pharmacol",
+        "References": "2001"
+    },
+    {
+        "Class": "use",
+        "Type": "s",
+        "Generic Name": "afr",
+        "Brand Name": "med",
+        "Conclusion": "j",
+        "References": "1984"
+    },
+    {
+        "Class": "safe in patients",
+        "Type": "br",
+        "Generic Name": "j",
+        "Brand Name": "clin",
+        "Conclusion": "pharmacol",
+        "References": "1990"
+    },
+    {
+        "Class": "probably safe in cell culture",
+        "Type": "s",
+        "Generic Name": "afr",
+        "Brand Name": "med",
+        "Conclusion": "j",
+        "References": "1984"
+    },
+    {
+        "Class": "evidence insufficient for deriving any conclusion\nabout apf",
+        "Type": "the",
+        "Generic Name": "apf",
+        "Brand Name": "is",
+        "Conclusion": "a",
+        "References": "501"
+    },
+    {
+        "Class": "join research\nwhat you can do\nget involved\ndonate",
+        "Type": "volunteer",
+        "Generic Name": "fundraise",
+        "Brand Name": "contact",
+        "Conclusion": "info",
+        "References": "6605 33"
+    }
+]
